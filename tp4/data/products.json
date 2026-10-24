@@ -1,0 +1,10 @@
+[
+  { "id": 10, "name": "Laptop", "category": "Electronics", "price": 8500, "stock": 8 },
+  { "id": 11, "name": "Wireless Mouse", "category": "Electronics", "price": 180, "stock": 25 },
+  { "id": 12, "name": "Gaming Keyboard", "category": "Electronics", "price": 450, "stock": 12 },
+  { "id": 13, "name": "24-inch Monitor", "category": "Electronics", "price": 1500, "stock": 6 },
+  { "id": 14, "name": "Standing Desk", "category": "Furniture", "price": 3200, "stock": 4 },
+  { "id": 15, "name": "Ergonomic Chair", "category": "Furniture", "price": 2100, "stock": 9 },
+  { "id": 16, "name": "LED Desk Lamp", "category": "Accessories", "price": 250, "stock": 30 },
+  { "id": 17, "name": "Laptop Stand", "category": "Accessories", "price": 300, "stock": 15 }
+]
